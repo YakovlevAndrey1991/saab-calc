@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8653cd28-f0cd-4da0-bec5-ac8828de5fe6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="25dbKm9gkMrWuyu7OAXtVrCDYJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../saab-calc-app-NativeJS-main" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yakovlev\Desktop\saab-calc-app-NativeJS\classes\Selects\dataBase" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8653cd28-f0cd-4da0-bec5-ac8828de5fe6" name="Default Changelist" comment="" />
+      <created>1645859848584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645859848584</updated>
+      <workItem from="1645859849615" duration="518000" />
+      <workItem from="1645860378020" duration="5490000" />
+      <workItem from="1645942083430" duration="16987000" />
+      <workItem from="1646125573390" duration="13567000" />
+      <workItem from="1646290555769" duration="5273000" />
+      <workItem from="1646588173241" duration="2606000" />
+      <workItem from="1646639002360" duration="10113000" />
+      <workItem from="1646814303295" duration="1841000" />
+      <workItem from="1647246985946" duration="23000" />
+      <workItem from="1653379378943" duration="4336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645952071102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645952071102" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1653390045937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="987" y="370" key="FileChooserDialogImpl/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1647247007622" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1653390045937" />
+    <state x="177" y="147" width="2376" height="1216" key="dock-window-1" timestamp="1646817438216">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="177" y="147" width="2376" height="1216" key="dock-window-1/-1080.0.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1646817438216" />
+  </component>
+</project>

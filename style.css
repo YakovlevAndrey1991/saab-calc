@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Franklin Gothic Book", sans-serif;
+    background-color: #785885;
+}
+
+header {
+    /*background: linear-gradient(rgba(1, 3, 56, .8), rgba(1, 3, 56, .0));*/
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.navigation {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.menu {
+    display: flex;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+}
+
+.nav li a {
+    color: #fff;
+    text-decoration: none;
+    text-wrap: none;
+    margin: 0 30px 0 0;
+    font-size: 18px;
+}
+
+.logo {
+    font-size: 40px;
+    font-family: "Fira Code";
+}
+.logo:hover {
+    cursor: default;
+}
+
+.link {
+    transition: .3s;
+}
+
+.link:hover {
+    color: #00D4C6;
+}
+
+.description {
+    top: 35%;
+    left: 10%;
+    width: 35%;
+    position: absolute;
+}
+.img {
+    top: 35%;
+    left: 50%;
+    width: 35%;
+    position: absolute;
+}
+.img img {
+    border-radius: 30px;
+}
+
+.description h1 {
+    margin: 0;
+    font-size: 40px;
+    color: #fff;
+}
+
+.description p {
+    color: #c7c7c7;
+    font-size: 20px;
+}
+
+.shop {
+    background: none;
+    border: 2px solid #00D4C6;
+    text-decoration: none;
+    color: #00D4C6;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .4s;
+}
+
+.shop:hover {
+    background: #00D4C6;
+    color: #fff;
+}
+
+footer {
+
+    flex: 0 0 auto;
+    width: 100%;
+    background: black;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    padding-top: 25px;
+
+}
+footer a {
+    color: #fff;
+    text-decoration: none;
+    text-wrap: none;
+    margin: 0 30px 0 0;
+    font-size: 18px;
+}
